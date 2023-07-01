@@ -40,6 +40,7 @@ https://github.com/PrismarineJS/mineflayer-pathfinder - More Advanced Pathfindin
 https://github.com/PrismarineJS/prismarine-viewer - Online viewer of bot screen
 
 https://github.com/TheDudeFromCI
+
 https://www.youtube.com/@TheDudeFromCI - YouTube Tutorials helped me on this.
 
 If you own any code and do not want me to use it, just ask and I will remove it. Thanks!
