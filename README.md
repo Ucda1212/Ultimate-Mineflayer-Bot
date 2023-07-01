@@ -42,6 +42,7 @@ https://github.com/PrismarineJS/prismarine-viewer - Online viewer of bot screen
 https://github.com/TheDudeFromCI
 https://www.youtube.com/@TheDudeFromCI - YouTube Tutorials helped me on this.
 
+If you own any code and do not want me to use it, just ask and I will remove it. Thanks!
 
 ### License
 
